@@ -1,0 +1,15 @@
+package variables;
+
+public class Main {
+
+	public static void main(String[] args) {
+		
+		String mesaj="Öğrenci Sayısı:";
+		int ogrenciSayisi=13;
+		System.out.println(mesaj+ogrenciSayisi);
+		System.out.println(mesaj+ogrenciSayisi);
+		System.out.println(mesaj+ogrenciSayisi);
+
+	}
+
+}
